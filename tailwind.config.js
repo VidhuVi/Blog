@@ -1,0 +1,24 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        inter: ['Inter', 'sans-serif'],
+        serif: ['Playfair Display', 'serif'],
+      },
+      colors: {
+        brand: {
+          bg: '#fafafa',
+          dark: '#111111',
+          accent: '#2563eb',
+          'accent-hover': '#1d4ed8',
+        }
+      }
+    },
+  },
+  plugins: [],
+}
