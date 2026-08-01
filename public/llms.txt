@@ -1,0 +1,17 @@
+# Vidhu P Vinod — Personal Perspectives & Essays
+
+> An online collection of essays, personal world views, mental models, and reflections on technology, human agency, urbanism, and modern systems by Vidhu P Vinod.
+
+## Core Site Information
+- Author: Vidhu P Vinod
+- Main Portfolio Website: https://vidhuvinod.netlify.app/
+- Primary Themes: Urbanism, Systems, Technology, Philosophy, Mindset, Decision Making
+
+## Featured Essays
+- [Global Liveability Index or Expat Allowance Calculator?](/post/global-liveability-index-or-expat-allowance-calculator): An objective critique of the EIU Global Liveability Index—exposing why a corporate tool designed for expat hardship allowances should not be used by media headlines to judge civic quality of life.
+
+## Author & Social Links
+- Author: Vidhu P Vinod
+- GitHub: https://github.com/VidhuVi
+- LinkedIn: https://www.linkedin.com/in/vidhu-p-vinod/
+- Portfolio: https://vidhuvinod.netlify.app/
