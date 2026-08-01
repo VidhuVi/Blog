@@ -4,11 +4,12 @@
 
 ## Core Site Information
 - Author: Vidhu P Vinod
+- Blog URL: https://echoes-by-vidhu.netlify.app/
 - Main Portfolio Website: https://vidhuvinod.netlify.app/
 - Primary Themes: Urbanism, Systems, Technology, Philosophy, Mindset, Decision Making
 
-## Featured Essays
-- [Global Liveability Index or Expat Allowance Calculator?](/post/global-liveability-index-or-expat-allowance-calculator): An objective critique of the EIU Global Liveability Index—exposing why a corporate tool designed for expat hardship allowances should not be used by media headlines to judge civic quality of life.
+## Published Essays
+- [Global Liveability Index or Expat Allowance Calculator?](https://echoes-by-vidhu.netlify.app/post/global-liveability-index-or-expat-allowance-calculator): An objective critique of the EIU Global Liveability Index—exposing why a corporate tool designed for expat hardship allowances should not be used by media headlines to judge civic quality of life.
 
 ## Author & Social Links
 - Author: Vidhu P Vinod

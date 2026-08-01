@@ -16,4 +16,5 @@ User-agent: Google-Extended
 Allow: /
 
 # Site information
-LLMs-txt: /llms.txt
+Sitemap: https://echoes-by-vidhu.netlify.app/sitemap.xml
+LLMs-txt: https://echoes-by-vidhu.netlify.app/llms.txt
